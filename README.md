@@ -1,3 +1,4 @@
 # pranavrajput-demo
-this is my first git repository.
-author- Pranav Rajput
+This is my first git repository.
+<br>
+Author- Pranav Rajput
